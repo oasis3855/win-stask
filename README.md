@@ -67,7 +67,7 @@ Startup Task Scheduler for Windows
 
 - Version 1.5 (1999/11/27)
 
-  -[BugFix] Windows95で２回目以降の起動時にシステム停止する問題を解決。また、GDIエラーについても解決（イメージリスト・ハンドラとアイコン・ハンドラの開放方法のミスを訂正） 
+  - [BugFix] Windows95で２回目以降の起動時にシステム停止する問題を解決。また、GDIエラーについても解決（イメージリスト・ハンドラとアイコン・ハンドラの開放方法のミスを訂正） 
   - [BugFix] 12月と1月をまたぐnヶ月単位の計算のミスを訂正 
   - [BugFix] マルチユーザーに対応。（レジストリ削除方法をHKEY_USERSからHKEY_CURRENT_USERへ変更） 
   - 英語メッセージ版を付属 (sTask_e.exe) 
@@ -98,7 +98,7 @@ Startup Task Scheduler for Windows
 
 - Version 1.65beta (2004/02/08)
 
-  -[VerUp] 電源状態の追加 
+  - [VerUp] 電源状態の追加 
 
 - Version 1.66 (2007/01/27)
 
