@@ -7,6 +7,9 @@ Startup Task Scheduler for Windows
 <br />
 <br />
 
+Last Updated : Feb. 2012 -- ***this is discontinued software 開発終了***
+
+- [ソフトウエアのダウンロード](#ソフトウエアのダウンロード)
 - [概要](#概要)
   - [機能の概略](#機能の概略)
 - [制限事項](#制限事項)
@@ -17,6 +20,18 @@ Startup Task Scheduler for Windows
 
 <br />
 <br />
+
+## ソフトウエアのダウンロード
+
+- ![download icon](readme_pics/soft-ico-download-darkmode.gif)   [このGitHubリポジトリを参照する（ソースコード）](source_code/) 
+
+- ![download icon](readme_pics/soft-ico-download-darkmode.gif)   [このGitHubリポジトリのreleaseディレクトリを参照する（ソースコード, 実行ファイル）](release/) 
+
+- ![download icon](readme_pics/soft-ico-download-darkmode.gif)   [Googleドライブを参照する（ソースコード, 実行ファイル）](https://drive.google.com/drive/folders/0B7BSijZJ2TAHYzVmMjUxYTItNmI2NS00NmFkLWI4MWYtZTE2ODUxYTY0Zjk3) 
+
+- ![download icon](readme_pics/soft-ico-download-darkmode.gif)   [Vector ソフトウエア ライブラリを参照する（実行ファイル）](http://www.vector.co.jp/soft/dl/win95/util/se105685.html) 
+
+- ![download icon](readme_pics/soft-ico-download-darkmode.gif)   [Google Codeを参照する（ソースコード, 実行ファイル）](https://code.google.com/archive/p/startup-task-scheduler/downloads) ※閉鎖
 
 ## 概要
 
